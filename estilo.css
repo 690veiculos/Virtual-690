@@ -16,18 +16,18 @@
 
 
 body{
-    background-image: linear-gradient(to bottom, rgba(41, 70, 114, 0.822), rgba(44, 112, 214, 0.795), gray );
+    background-image: linear-gradient(to bottom, rgba(41, 70, 114, 0.822), #38b6ff, #2986bb );
 }
 
 header{
     font-family: "Bebas Neue", "sans-serif";
-    background-image: linear-gradient(to bottom, rgb(44, 112, 214), gray );
+    background-image: linear-gradient(to bottom, #38b6ff, #2986bb );
     min-height: 150px;
 }
 
 
 nav{
-    background-color: rgb(48, 80, 170);
+    background-color: #005fcc;
     padding: 7px;
     margin-top: 12px;
 }
@@ -79,7 +79,7 @@ div.video >iframe{
 }
 
 h2#principal{
-    color:blue;
+    color:#005fcc;
     background-image: linear-gradient(to right, rgba(44, 112, 214, 0.411) , transparent);
     border-radius: 2px;
     font-family: "Kanit";
@@ -90,7 +90,7 @@ h2#principal{
 }
 
 h2{
-    color: blue;
+    color: #005fcc;
     background-image: linear-gradient(to right, rgba(44, 112, 214, 0.411) , transparent);
     border-radius: 2px;
     font-family: "Kanit";
@@ -219,7 +219,7 @@ a:hover{
 }
 
 a#loc{
-    color: blue;
+    color: #005fcc;
 }
 
 a#loc:hover{
